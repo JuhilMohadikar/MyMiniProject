@@ -26,5 +26,5 @@ The timeline to complete this work is 1 month i.e, 15 July 2021
 ###### **Concept** :  File Handling
 
 
-#### SWOT ANALYSIS
+#### SWOT Anaylsis
 
