@@ -25,3 +25,6 @@ The timeline to complete this work is 1 month i.e, 15 July 2021
 ###### **Processor**: Intel dual Core,i3
 ###### **Concept** :  File Handling
 
+
+#### SWOT ANALYSIS
+
