@@ -29,10 +29,10 @@ The timeline to complete this work is 1 month i.e, 15 July 2021
 #### SWOT Anaylsis
 
 ###### **Strength**
-Quick Learner
-Hard Working
-Adaptive in nature
-Leadership Quality
+######Quick Learner
+######Hard Working
+######Adaptive in nature
+######Leadership Quality
 
 ###### **Weakness**
 Implementation of code
