@@ -1,5 +1,5 @@
 # MyMiniProject
 
-## Heading 2
+## Hospital Management System
 
 #### heading 4
