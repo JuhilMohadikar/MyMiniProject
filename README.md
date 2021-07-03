@@ -40,7 +40,6 @@ Implementation of code
 ###### **Opportunity**
 Increase communication network
 
-
 ####### **Threats**
 Inertia on coding
 
