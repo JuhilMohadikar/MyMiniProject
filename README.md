@@ -7,5 +7,6 @@ The main aim  of this project is to keep record of the patient in an computerize
 The project capabilities include registration process (i.e add,list,search,edit,delete patient record) , storing details in the system and consulting prescribed doctor to the patients.
 
 #### Research 
+**link**
 
 
