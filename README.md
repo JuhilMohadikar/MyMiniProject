@@ -13,3 +13,9 @@ The project capabilities include registration process (i.e add,list,search,edit,
 
 **Features**
 The features are to perform basic fundamental operations such as add,list,search,edit and delete the patient record and Secondly it also keep track of billing section as well as the doctor appointed to the patient.
+
+**Timeline**
+The timeline to complete this work is 1 month i.e, 15 July 2021
+
+
+#### Defining the System
