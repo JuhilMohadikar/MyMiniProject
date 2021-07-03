@@ -7,6 +7,6 @@ The main aim  of this project is to apply the concept of  **File Handling** to k
 The project capabilities include registration process (i.e add,list,search,edit,delete patient record) , storing details in the system and consulting prescribed doctor to the patients.
 
 #### Research 
-[Visit website]{https://github.com/Sushmita01/Hospital-Management-System}
+[Visit website]{https://www.codewithc.com/hospital-management-system-project-in-c/}
 
 
