@@ -6,5 +6,5 @@
 
 ## Low Level Diagram
 
-#### [Visit website]{1.class_diagram.drawio}
+#### [Visit website]{2.Cross_Functional_Diagram.drawio}
 
