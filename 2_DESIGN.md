@@ -2,7 +2,7 @@
 
 ## High Level Design
 
- [Visit website]{1.class_diagram.drawio}
+ [Visit website]{https://github.com/arti0404/MyMiniProject/blob/c4e3fb96b93be5d0625fe61bc1c2217178d1aec5/1.class_diagram.drawio}
 
 ## Low Level Diagram
 
