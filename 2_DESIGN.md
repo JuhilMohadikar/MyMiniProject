@@ -6,6 +6,6 @@
 
 ## Low Level Diagram
 
- [Visit website]{https://github.com/arti0404/MyMiniProject/blob/5af3cd9cb1fc8b72828cdb489cfaa4c5bde69c56/1.class_diagram.drawio}
+ [Visit website]{https://github.com/arti0404/MyMiniProject/blob/a9e1524a7c1d8bd66d177f3eea73e9481f9458d4/2.Cross_Functional_Diagram.drawio}
 
 [Visit website]{https://www.codewithc.com/hospital-management-system-project-in-c/}
