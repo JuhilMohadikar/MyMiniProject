@@ -3,10 +3,10 @@ LTTS Miniproject
  
 SDLC ACTIVITY BASED LEARNING
 
-PROJECT : ONLINE BANK MANAGEMENT SYSTEM
+PROJECT : HOSPITAL MANAGEMENT SYSTEM
 
 FOLDER STRUCTURE:
-  |       Folder        |            Description                         |
+  |      Contents        |            Description                         |
   |:--------------------|:-----------------------------------------------|
   |1.Requirements       |Documents detailing requirements and research   |
   |2.Design             |Documents specifying design details             |
@@ -14,7 +14,7 @@ FOLDER STRUCTURE:
   |4.Testplan           |Documents with test plans and procedures        |
   
 Contributors List and Summary:
-|SF Id.|Name|Features|Issuess Raised|Issues Resolved|No. of TestCases|Test Case|
+|Candidate Id.|Name|Features|Issuess Raised|Issues Resolved|No. of TestCases|Test Case|
 |:-----|:---|:-------|:-------------|:--------------|:-----------|:--------|
 |314201|Arti Yadav| |||||
 
