@@ -79,23 +79,3 @@ Lowlevel Requirements:
   |LR05| User shall be able to exit |Technical|Implemented|
 
 
-#### SWOT Anaylsis
-
-###### **Strength**
-Quick Learner
-
-Hard Working
-
-Adaptive in nature
-
-Leadership Quality
-
-###### **Weakness**
-Implementation of code
-
-###### **Opportunity**
-Increase communication network
-
-###### **Threats**
-Inertia on coding
-
