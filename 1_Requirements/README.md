@@ -58,7 +58,7 @@ Where:
 How:
    Due to hospital mangement system ,We need not go to hospital for  registation and patient need to wait till their number comes, doing online registration from home save the time and energy of the patient. 
 
-DETAIL REQUIREMENTS:
+**DETAIL REQUIREMENTS:**
 
 Highlevel Requirements:
 
