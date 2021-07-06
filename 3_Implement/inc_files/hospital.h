@@ -79,7 +79,7 @@ void WelcomeScreen(void) //function for welcome screen
 	
 	printf("\n\n\n\n\n\n\n\t\t\t\t#########################################");
 	printf("\n\t\t\t\t#\t\t WELCOME TO\t\t#");
-	printf("\n\t\t\t\t#   AMBAR HOSPITAL MANAGEMENT SYSTEM    #");
+	printf("\n\t\t\t\t#   ALEXIS HOSPITAL MANAGEMENT SYSTEM    #");
 	printf("\n\t\t\t\t#########################################");
 	printf("\n\n\n\n\n Press any key to continue......\n");
 	getch();//Use to holds screen for some seconds
@@ -90,7 +90,7 @@ void WelcomeScreen(void) //function for welcome screen
 void Title(void)//function for title screen
 {
 	printf("\n\n\t\t----------------------------------------------------------------------------------");
-	printf("\n\t\t\t\t       AMBAR HOSPITAL         ");
+	printf("\n\t\t\t\t       ALEXIS HOSPITAL         ");
 	printf("\n\t\t----------------------------------------------------------------------------------");
 }
 /* ************************************************* Main Menu ********************************************* */
